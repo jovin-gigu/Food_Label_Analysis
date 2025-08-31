@@ -1,0 +1,544 @@
+Food_Name,Food_Category,Calories_per_100g,Protein_per_100g,Carbs_per_100g,Fat_per_100g,Fiber_per_100g,Sugar_per_100g,Sodium_per_100g,Processing_Level,Nutritional_Density,Glycemic_Index,Additives_Count,Disease_Risk
+Oatmeal with berries and nuts,Whole Food,256.0,12.0,38.400000000000006,9.6,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Grilled chicken salad with mixed greens,Whole Food,200.0,20.8,20.8,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Salmon with roasted vegetables,Whole Food,1616.0,48.0,200.0,48.0,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Greek yogurt with fruit,Whole Food,120.0,8.0,16.0,4.0,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Tofu scramble with veggies,Mixed,151.20000000000002,28.8,12.0,2.8000000000000003,3.0,8.0,200.0,4,6,50,2,Weight Gain + Heart Issues
+Lentil soup with whole wheat bread,Whole Grain,215.2,28.8,7.2,6.4,4.0,6.0,300.0,3,8,45,1,Weight Gain + Heart Issues
+Vegetable stir-fry with brown rice,Whole Grain,8.0,4.0,24.8,21.6,5.0,5.0,250.0,3,8,45,1,Weight Gain + Heart Issues
+Apple with almond butter,Mixed,144.0,3.2,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain + Heart Issues
+Tofu and veggie breakfast burrito,Mixed,180.8,16.0,56.0,3.2,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Black bean burger on a whole wheat bun,Fast Food,136.8,45.6,25.6,12.0,4.0,6.0,300.0,8,3,75,6,Weight Gain
+Lentil and vegetable curry,Prepared Meal,260.8,44.0,120.0,12.0,5.0,5.0,250.0,5,6,25,3,Weight Gain
+Trail mix,Mixed,240.0,6.4,27.200000000000003,16.0,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Greek yogurt with granola and fruit,Whole Food,226.4,11.2,35.2,16.0,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Chicken and vegetable stir-fry,Lean Protein,462.4,34.4,49.6,8.0,4.0,6.0,300.0,3,8,0,1,Weight Gain
+Turkey chili with brown rice,Whole Grain,222.4,16.0,130.4,21.6,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Banana with peanut butter,Mixed,168.0,4.0,24.0,7.2,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Scrambled eggs with whole wheat toast and avocado,Whole Grain,106.4,9.6,17.6,0.8,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Quinoa salad with chickpeas and vegetables,Whole Food,393.6,8.0,37.6,7.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Vegetarian chili with cornbread,Mixed,148.8,5.04,148.8,17.6,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Fruit and nut mix,Whole Food,200.0,4.800000000000001,22.4,12.0,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Lentil pasta with vegetables,Whole Food,401.6,27.200000000000003,17.6,5.6000000000000005,4.0,6.0,300.0,2,9,35,0,Multiple Diseases (High Risk)
+Vegan stir-fry with brown rice,Whole Grain,13.6,4.0,17.6,34.4,5.0,5.0,250.0,3,8,45,1,Multiple Diseases (High Risk)
+Hummus and veggie wrap,Mixed,160.0,5.6000000000000005,20.0,8.0,2.0,12.0,150.0,4,6,50,2,Multiple Diseases (High Risk)
+Protein pancakes with fruit and nuts,Whole Food,236.8,21.6,23.200000000000003,19.200000000000003,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Chicken breast with brown rice and vegetables,Whole Food,216.0,19.200000000000003,15.2,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Steak with sweet potato and broccoli,Mixed,584.0,16.8,57.6,43.2,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Protein shake,Mixed,160.0,16.0,8.0,4.0,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Quinoa and vegetable bowl,Whole Grain,235.2,21.6,24.0,8.8,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Cottage cheese with fruit,Whole Food,128.0,11.2,9.6,4.0,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Tofu and chickpea scramble,Mixed,231.2,16.0,33.6,20.0,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Lentil burger with sweet potato fries,Fast Food,536.0,40.0,36.0,11.2,4.0,6.0,300.0,8,3,75,6,Weight Gain
+Vegan chili with cornbread,Mixed,312.0,3.2,36.0,6.4,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Energy bar,Mixed,176.0,8.0,20.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Overnight oats with fruit and chia seeds,Whole Food,448.8,8.8,42.400000000000006,5.6000000000000005,3.0,8.0,200.0,2,9,35,0,Weight Gain + Kidney Disease
+Vegan pasta with vegetables and sauce,Whole Food,1336.0,32.32,38.0,40.0,5.0,5.0,250.0,2,9,35,0,Weight Gain + Kidney Disease
+Fruit and veggie sticks,Whole Food,80.0,1.6,16.0,0.8,2.0,12.0,150.0,2,9,35,0,Weight Gain + Kidney Disease
+Tofu scramble with vegetables,Whole Food,175.20000000000002,16.8,20.0,2.4000000000000004,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Lentil soup with wholegrain bread,Prepared Meal,109.6,3.2,57.6,6.4,4.0,6.0,300.0,5,6,25,3,Weight Gain
+Chickpea and vegetable curry,Prepared Meal,568.0,22.4,240.0,23.200000000000003,5.0,5.0,250.0,5,6,25,3,Weight Gain
+Trail mix with nuts and seeds,Mixed,280.0,8.0,32.0,20.0,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Wholegrain toast with avocado,Mixed,228.0,6.800000000000001,37.6,19.200000000000003,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Black bean salad,Whole Food,428.0,17.6,28.0,4.800000000000001,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Vegetable stir-fry with tofu,Prepared Meal,477.6,2.72,47.2,20.0,5.0,5.0,250.0,5,6,25,3,Weight Gain
+Fruit salad with yogurt,Whole Food,120.0,3.2,20.0,5.6000000000000005,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Greek yogurt with granola,Dairy,246.4,15.2,32.0,2.4000000000000004,3.0,8.0,200.0,4,6,15,2,Weight Gain
+Tuna salad sandwich on wholegrain bread,Whole Food,456.0,24.8,20.0,10.4,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Chicken breast with steamed vegetables,Whole Food,80.0,24.8,22.4,24.8,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Popcorn,Mixed,80.0,2.4000000000000004,12.0,4.0,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Tofu and vegetable stir-fry,Prepared Meal,299.2,6.32,7.2,2.72,3.0,8.0,200.0,5,6,25,3,Weight Gain
+Lentil and vegetable stew,Mixed,252.8,24.0,54.400000000000006,7.2,4.0,6.0,300.0,4,6,50,2,Weight Gain
+Vegan chili,Mixed,400.0,22.4,112.0,5.6000000000000005,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Smoothie with protein powder,Mixed,160.0,16.0,24.0,1.6,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Black bean burger on a wholegrain bun,Fast Food,316.0,25.6,48.0,12.0,4.0,6.0,300.0,8,3,75,6,Weight Gain
+Oatmeal with protein powder and fruit,Whole Food,200.0,27.200000000000003,39.2,20.0,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Grilled chicken breast with brown rice,Whole Grain,588.0,63.2,262.40000000000003,8.0,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Fruit and nuts,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Eggs with wholegrain toast,Mixed,243.2,11.2,31.200000000000003,40.0,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Chicken breast with brown rice,Whole Grain,533.6,49.6,51.2,8.0,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Steak with roasted vegetables,Whole Food,1205.6,74.48,156.8,74.48,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Protein bar,Mixed,200.0,6.4,24.0,9.6,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Greek yogurt with berries and granola,Whole Food,372.0,19.28,13.44,31.200000000000003,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Salmon salad with mixed greens and avocado,Whole Food,352.0,31.200000000000003,36.0,14.4,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Chicken stir-fry with brown rice,Whole Grain,408.0,20.8,41.6,41.6,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Apple with peanut butter,Mixed,144.0,3.2,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Chicken breast with sweet potato and broccoli,Lean Protein,440.0,20.0,20.0,9.6,4.0,6.0,300.0,3,8,0,1,Weight Gain
+Vegetarian chili with brown rice,Whole Grain,175.20000000000002,17.6,18.880000000000003,8.8,5.0,5.0,250.0,3,8,45,1,Weight Gain + Heart Issues
+Trail mix with nuts and dried fruit,Whole Food,280.0,8.0,32.0,20.0,2.0,12.0,150.0,2,9,35,0,Weight Gain + Heart Issues
+Eggs with whole wheat toast and avocado,Whole Grain,200.0,21.6,12.8,12.48,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Turkey sandwich on whole wheat bread with vegetables,Whole Food,552.0,45.84,32.800000000000004,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Chicken and vegetable stir-fry with brown rice,Whole Grain,536.0,45.84,78.4,20.8,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Greek yogurt with fruit and granola,Whole Food,160.0,9.6,24.0,4.800000000000001,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Tofu scramble with vegetables and avocado,Whole Food,192.0,14.4,22.4,3.2,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Vegan lentil stew with whole wheat bread,Whole Grain,352.0,15.2,35.2,5.6000000000000005,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Tofu stir-fry with brown rice and vegetables,Whole Food,328.8,22.4,35.2,13.6,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Banana with almond butter,Mixed,168.0,4.0,24.0,7.2,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Tuna salad with whole wheat bread,Whole Food,318.40000000000003,13.76,96.0,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Chicken breast with sweet potato and green beans,Lean Protein,57.6,22.4,20.0,1.2800000000000002,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Mixed nuts and seeds,Mixed,160.0,4.800000000000001,16.0,12.0,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Vegan pasta with vegetables and tomato sauce,Whole Food,352.0,22.4,35.2,17.6,5.0,5.0,250.0,2,9,35,0,Multiple Diseases (High Risk)
+Apple slices with peanut butter,Mixed,144.0,3.2,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Tofu scramble with spinach and avocado,Mixed,240.0,14.4,36.0,10.4,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Black bean burgers with sweet potato fries,Fast Food,816.8000000000001,69.60000000000001,203.2,65.60000000000001,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Lentil and vegetable curry with brown rice,Whole Grain,510.4,30.32,30.32,8.0,4.0,6.0,300.0,3,8,45,1,Weight Gain + Kidney Disease
+Tofu stir-fry with brown rice noodles,Whole Grain,530.4,2.0,34.64,15.44,5.0,5.0,250.0,3,8,45,1,Weight Gain + Kidney Disease
+Fruit smoothie,Whole Food,120.0,1.6,28.0,0.8,2.0,12.0,150.0,2,9,35,0,Weight Gain + Kidney Disease
+Scrambled eggs with whole wheat toast and fruit,Whole Food,135.20000000000002,21.6,13.6,4.800000000000001,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Steak with sweet potato and asparagus,Mixed,327.20000000000005,8.8,24.0,8.0,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Oatmeal with berries and plant-based milk,Whole Food,304.0,15.2,33.6,8.8,3.0,8.0,200.0,2,9,35,0,Multiple Diseases (High Risk)
+Vegetable stir-fry with tofu and brown rice,Whole Grain,624.0,48.8,12.0,17.6,5.0,5.0,250.0,3,8,45,1,Multiple Diseases (High Risk)
+Apple slices with almond butter,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Multiple Diseases (High Risk)
+Tuna salad sandwich on whole wheat bread,Whole Food,672.0,45.6,41.6,10.4,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Vegetarian chili with whole wheat bread,Whole Grain,369.6,34.4,34.4,6.4,4.0,6.0,300.0,3,8,45,1,Weight Gain + Kidney Disease
+Black bean burgers with salad,Fast Food,374.4,30.4,48.8,16.8,5.0,5.0,250.0,8,3,75,6,Weight Gain + Kidney Disease
+Oatmeal with fruit and nuts,Whole Food,159.20000000000002,31.200000000000003,15.2,15.2,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Chicken salad sandwich on whole wheat bread,Whole Food,376.0,33.6,44.0,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Fruit and cheese,Whole Food,160.0,8.0,12.0,8.0,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Chicken breast salad with vegetables,Whole Food,262.40000000000003,25.6,24.8,8.0,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Fruit and yogurt,Whole Food,120.0,8.0,16.0,4.0,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Tofu scramble with whole-wheat toast,Mixed,1392.0,11.2,19.200000000000003,14.4,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Lentil soup with whole-wheat bread,Prepared Meal,560.0,10.4,19.200000000000003,6.4,4.0,6.0,300.0,5,6,25,3,Weight Gain
+Tofu and vegetable breakfast burrito,Mixed,208.0,12.0,27.200000000000003,2.4000000000000004,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Black bean burger on a whole-wheat bun,Fast Food,448.0,29.6,38.400000000000006,12.0,4.0,6.0,300.0,8,3,75,6,Weight Gain
+Lentil pasta with marinara sauce,Mixed,164.8,20.0,164.8,12.8,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Fruit salad with nuts,Whole Food,120.0,3.2,20.0,5.6000000000000005,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Chicken breast salad with mixed greens,Whole Food,336.8,22.4,13.6,8.0,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Turkey meatballs with steamed vegetables,Whole Food,384.0,37.6,14.4,16.0,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Scrambled eggs with avocado and whole-wheat toast,Mixed,338.40000000000003,23.200000000000003,19.200000000000003,20.8,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Steak with sweet potato fries,Fast Food,592.8000000000001,64.0,30.4,33.6,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Protein shake with banana,Mixed,160.0,16.0,24.0,1.6,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Overnight oats with chia seeds and fruit,Whole Food,208.0,5.6000000000000005,20.0,8.0,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Tofu and vegetable stir-fry with brown rice,Whole Grain,363.2000000000001,4.800000000000001,6.4,9.6,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Pancakes with fruit and syrup,Whole Food,176.0,11.12,16.0,4.0,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Grilled chicken sandwich with whole-wheat bread,Lean Protein,240.0,15.2,217.6,10.4,4.0,6.0,300.0,3,8,0,1,Weight Gain
+Chickpea curry with brown rice,Whole Grain,352.0,21.6,35.2,4.0,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Energy bar with nuts and seeds,Mixed,200.0,6.4,24.0,9.6,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Lentil stew with whole-wheat bread,Mixed,627.2,46.400000000000006,83.2,40.0,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Scrambled eggs with whole-wheat toast,Mixed,372.0,28.0,44.0,15.2,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Tuna salad sandwich with whole-wheat bread,Whole Food,536.0,34.4,62.400000000000006,10.4,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Chicken breast with roasted vegetables,Whole Food,337.6,33.6,33.6,8.0,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Tofu stir-fry with brown rice,Whole Grain,912.0,8.8,8.0,24.8,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Beef stew with brown rice,Whole Grain,618.4000000000001,5.760000000000001,28.0,34.4,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Tofu scramble with spinach and avocado toast,Mixed,384.8,13.6,19.200000000000003,15.2,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Vegan chili with brown rice,Whole Grain,532.8000000000001,24.0,172.8,27.200000000000003,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Lentil and quinoa salad,Whole Food,398.4,20.0,32.0,7.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Vegan pasta with marinara sauce,Mixed,583.2,16.0,56.0,34.4,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Smoothie with protein powder and fruit,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Eggs with whole-wheat toast,Mixed,210.4,10.4,36.8,16.0,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Chicken salad sandwich with mixed greens,Whole Food,416.0,10.4,38.400000000000006,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Fish with roasted vegetables,Whole Food,432.8,42.400000000000006,432.8,8.0,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Quinoa porridge with fruit and nuts,Whole Food,353.6,16.080000000000002,49.6,15.2,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Black bean burgers on whole-wheat buns,Fast Food,791.2,8.64,21.6,8.0,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Tofu scramble with vegetables and whole-wheat toast,Whole Food,220.8,16.64,20.8,11.2,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Scrambled eggs with bacon and whole-wheat toast,Mixed,448.0,24.8,32.0,11.2,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Chicken Caesar salad,Whole Food,464.8,22.4,31.200000000000003,11.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Grilled salmon with roasted vegetables,Whole Food,566.4,40.0,36.0,20.8,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Mixed nuts,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Chickpea salad sandwich with whole-wheat bread,Whole Food,376.8,22.4,25.6,8.0,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Lentil stew with brown rice,Whole Grain,552.0,35.2,16.400000000000002,12.8,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Oatmeal with protein powder and berries,Whole Food,177.60000000000002,20.0,38.400000000000006,23.200000000000003,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Salmon with sweet potato and broccoli,Lean Protein,427.2000000000001,44.0,32.0,32.0,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Greek yogurt with nuts and seeds,Dairy,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,15,2,Weight Gain
+Vegetarian chili with a side salad,Whole Food,536.0,23.200000000000003,21.6,6.4,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Eggs with whole-wheat toast and avocado,Mixed,222.4,20.480000000000004,8.64,8.959999999999999,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Tuna with quinoa and roasted vegetables,Whole Food,1407.2,132.0,147.6,50.88,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Trail mix with almonds and dried fruit,Whole Food,280.0,8.0,32.0,20.0,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Black bean burger with sweet potato fries,Fast Food,526.4,16.0,183.2,12.8,4.0,6.0,300.0,8,3,75,6,Weight Gain
+Fruit salad with nuts and seeds,Whole Food,120.0,3.2,20.0,5.6000000000000005,2.0,12.0,150.0,2,9,35,0,Weight Gain + Heart Issues
+Steak with baked potato and green beans,Mixed,391.2000000000001,17.6,41.6,33.6,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Protein shake with fruit,Whole Food,160.0,16.0,8.0,4.0,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Scrambled eggs with vegetables and whole-wheat toast,Whole Food,205.6,10.72,44.8,12.32,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Vegetarian lasagna with salad,Whole Food,696.8000000000001,53.6,88.0,26.4,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Tuna salad sandwich on whole-wheat bread with a side of mixed greens,Whole Food,416.0,21.6,23.200000000000003,11.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Salmon with roasted vegetables and quinoa,Whole Food,480.0,22.4,20.0,32.0,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Scrambled eggs with whole-wheat toast and avocado,Mixed,300.0,9.2,34.4,21.6,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Chicken breast with quinoa and steamed vegetables,Whole Food,727.2,36.0,28.8,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Steak with baked potato and broccoli,Mixed,567.2,56.8,8.64,42.400000000000006,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Trail mix with dried fruit and nuts,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Tofu scramble with veggies and whole-wheat toast,Mixed,240.0,21.6,27.200000000000003,25.6,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Overnight oats with fruit and nuts,Whole Food,340.0,12.8,69.60000000000001,8.0,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Chicken breast with brown rice and steamed vegetables,Whole Food,600.8000000000001,42.400000000000006,28.0,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Beef stir-fry with brown rice,Whole Grain,727.2,52.8,45.6,97.6,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Black bean burger with whole-wheat bun and salad,Fast Food,420.0,27.200000000000003,64.0,12.0,4.0,6.0,300.0,8,3,75,6,Weight Gain + Kidney Disease
+Chicken salad sandwich on whole-wheat bread with a side of mixed greens,Whole Food,184.0,10.56,73.60000000000001,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Greek yogurt with berries and nuts,Whole Food,311.20000000000005,10.4,35.2,16.8,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Lentil soup with whole grain bread,Prepared Meal,354.40000000000003,22.96,30.4,6.4,4.0,6.0,300.0,5,6,25,3,Weight Gain
+Vegetable sticks with hummus,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Beef stew with whole grain bread,Mixed,112.0,8.8,44.8,16.8,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Tofu scramble with whole wheat toast and avocado,Whole Grain,240.0,5.04,36.0,13.2,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Lentil salad with quinoa and mixed greens,Whole Food,384.0,16.0,41.6,7.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Yogurt with fruit and granola,Whole Food,304.0,14.4,26.4,12.0,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Turkey sandwich on whole grain bread,Lean Protein,464.0,23.200000000000003,33.6,8.8,4.0,6.0,300.0,3,8,0,1,Weight Gain
+Bean burrito with brown rice,Whole Grain,309.6,32.32,20.16,11.2,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Chickpea and vegetable pasta,Mixed,144.0,33.6,60.8,56.0,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Greek yogurt with fruit and nuts,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Tuna salad with whole grain bread,Whole Food,408.0,18.4,18.4,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Salmon with steamed vegetables,Whole Food,952.8,50.56,952.8,35.2,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Black bean soup with whole wheat bread,Whole Grain,268.0,15.2,48.8,5.6000000000000005,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Steak with sweet potato and green beans,Mixed,368.0,21.6,36.8,9.6,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Greek yogurt with berries and almonds,Whole Food,252.0,28.0,16.0,12.0,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Salmon with roasted sweet potatoes,Lean Protein,385.6,38.400000000000006,385.6,38.400000000000006,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Hummus with vegetables,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Lentil stew with brown rice and quinoa,Whole Grain,156.0,14.4,38.8,7.2,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Chickpea and vegetable curry with brown rice,Whole Grain,864.0,24.0,62.400000000000006,36.4,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Trail mix with nuts and dried fruits,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Eggs with whole-wheat toast and bacon,Mixed,284.0,15.2,33.6,7.2,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Steak with mashed potatoes and green beans,Mixed,1848.0,48.8,224.0,56.0,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Greek yogurt with berries,Whole Food,120.0,8.0,16.0,4.0,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Lentil and vegetable soup with whole-wheat bread,Prepared Meal,240.0,20.0,40.0,6.4,4.0,6.0,300.0,5,6,25,3,Multiple Diseases (High Risk)
+Scrambled tofu with whole-wheat toast and avocado,Mixed,160.0,8.8,32.0,11.2,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Black bean burgers on whole-wheat buns with salad,Fast Food,551.2,8.8,37.6,12.0,4.0,6.0,300.0,8,3,75,6,Weight Gain
+Lentil and vegetable curry with brown rice and quinoa,Whole Grain,208.0,15.2,28.8,8.0,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Quinoa salad with roasted vegetables,Whole Food,835.2,20.0,52.8,52.8,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Scrambled eggs with whole wheat toast,Whole Grain,296.0,12.0,27.200000000000003,7.2,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Low-fat Greek yogurt with berries,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Tofu and vegetable scramble with whole wheat toast,Whole Grain,152.0,8.0,37.6,1.6,3.0,8.0,200.0,3,8,45,1,Weight Gain + Kidney Disease
+Chickpea salad sandwich on whole wheat bread,Whole Food,264.0,8.0,44.8,8.0,4.0,6.0,300.0,2,9,35,0,Weight Gain + Kidney Disease
+Lentil and vegetable stew with brown rice,Whole Grain,416.0,16.8,92.0,24.0,5.0,5.0,250.0,3,8,45,1,Weight Gain + Kidney Disease
+Chicken breast with brown rice and roasted vegetables,Whole Food,424.0,57.6,48.0,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Black bean burger with whole wheat bun,Fast Food,152.0,9.6,21.6,12.0,4.0,6.0,300.0,8,3,75,6,Weight Gain
+Quinoa salad with chicken and vegetables,Whole Food,367.2000000000001,16.0,30.8,8.0,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Tuna salad sandwich on whole-wheat bread,Whole Food,32.0,32.0,16.0,32.0,5.0,5.0,250.0,2,9,35,0,Weight Gain + Heart Issues
+Raw vegetables and hummus,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain + Heart Issues
+Chicken breast with roasted vegetables and sweet potato,Whole Food,354.40000000000003,13.6,354.40000000000003,35.2,5.0,5.0,250.0,2,9,35,0,Weight Gain + Heart Issues
+Chickpea salad with mixed greens,Whole Food,488.8,4.5600000000000005,4.5600000000000005,7.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Grilled chicken with roasted vegetables,Whole Food,172.0,68.0,36.0,22.4,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Greek Yogurt with berries and granola,Whole Food,372.8,32.800000000000004,47.2,12.0,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Quinoa bowl with roasted chickpeas and vegetables,Whole Food,132.0,16.8,16.8,16.8,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Celery sticks with peanut butter,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Tofu omelet with spinach,Mixed,437.6,28.0,44.0,7.2,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Vegan lentil stew with brown rice,Whole Grain,680.0,18.4,24.8,5.6000000000000005,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Vegetarian chili with whole-wheat bread,Mixed,245.6,8.8,54.88,6.4,4.0,6.0,300.0,4,6,50,2,Multiple Diseases (High Risk)
+Lentil pasta with tomato sauce,Mixed,976.0,1.6800000000000002,976.0,23.200000000000003,5.0,5.0,250.0,4,6,50,2,Multiple Diseases (High Risk)
+Fruit salad,Whole Food,120.0,3.2,20.0,5.6000000000000005,2.0,12.0,150.0,2,9,35,0,Multiple Diseases (High Risk)
+Greek yogurt with protein powder and fruit,Whole Food,256.0,16.8,27.200000000000003,11.2,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Turkey chili with sweet potato,Lean Protein,1144.0,114.4,32.0,40.0,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Chicken salad sandwich on whole-wheat bread,Whole Food,129.6,20.0,72.0,8.8,4.0,6.0,300.0,2,9,35,0,Multiple Diseases (High Risk)
+Grilled chicken salad with mixed greens and avocado,Whole Food,208.0,33.6,19.200000000000003,11.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Trail mix with almonds and dried cranberries,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Protein bar with nuts,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Tofu breakfast burrito with whole-wheat tortilla,Mixed,256.0,11.68,20.0,9.6,3.0,8.0,200.0,4,6,50,2,Multiple Diseases (High Risk)
+Vegan pasta salad with vegetables,Whole Food,1144.0,33.6,144.0,6.4,4.0,6.0,300.0,2,9,35,0,Multiple Diseases (High Risk)
+Protein pancakes with fruit and syrup,Whole Food,440.8,32.800000000000004,53.6,23.200000000000003,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Scrambled tofu with spinach and tomato,Mixed,128.0,12.8,12.8,9.6,3.0,8.0,200.0,4,6,50,2,Multiple Diseases (High Risk)
+Quinoa bowl with roasted vegetables and chickpeas,Whole Food,836.8000000000001,21.6,60.8,22.4,5.0,5.0,250.0,2,9,35,0,Multiple Diseases (High Risk)
+Black bean burger on whole-wheat bun with avocado,Fast Food,976.0,16.8,69.60000000000001,40.0,5.0,5.0,250.0,8,3,75,6,Weight Gain + Kidney Disease
+Tofu stir-fry with vegetables,Whole Food,303.2,8.0,14.4,17.6,5.0,5.0,250.0,2,9,35,0,Weight Gain + Heart Issues
+Carrot sticks with hummus,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain + Heart Issues
+Tofu scramble with vegetables and whole wheat toast,Whole Food,160.0,27.200000000000003,40.0,12.8,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Chickpea and vegetable pasta bake,Mixed,608.0,22.4,208.0,38.400000000000006,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Vegan overnight oats with berries,Whole Food,295.2,22.4,44.0,13.6,3.0,8.0,200.0,2,9,35,0,Multiple Diseases (High Risk)
+Lentil and vegetable soup with whole wheat bread,Whole Grain,275.2,2.9600000000000004,104.0,6.4,4.0,6.0,300.0,3,8,45,1,Multiple Diseases (High Risk)
+Chicken breast and brown rice with vegetables,Whole Food,320.0,35.2,35.2,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Scrambled eggs with spinach and whole wheat toast,Whole Grain,225.6,14.880000000000004,15.2,8.8,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Vegan overnight oats with chia seeds and berries,Whole Food,318.40000000000003,11.2,22.4,1.6,3.0,8.0,200.0,2,9,35,0,Weight Gain + Heart Issues
+Lentil and vegetable curry with rice,Prepared Meal,388.8,28.8,68.8,17.6,5.0,5.0,250.0,5,6,25,3,Weight Gain
+Protein smoothie with fruit and spinach,Whole Food,204.8,23.200000000000003,24.8,12.8,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Chickpea and vegetable stew,Mixed,300.8,22.4,35.2,24.0,5.0,5.0,250.0,4,6,50,2,Weight Gain
+String cheese with crackers,Dairy,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,15,2,Weight Gain
+Black bean burgers with avocado,Fast Food,418.4,33.6,13.6,19.840000000000003,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Yogurt parfait with granola and fruit,Whole Food,238.4,15.2,19.200000000000003,27.200000000000003,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Tuna salad sandwich on whole-wheat bread with a side salad,Whole Food,464.0,21.6,156.8,11.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Grilled chicken breast with quinoa and steamed vegetables,Whole Food,500.8,52.0,16.0,25.6,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Lentil soup with a side of whole-wheat bread,Prepared Meal,289.6,26.4,9.6,6.4,4.0,6.0,300.0,5,6,25,3,Weight Gain
+Black bean burgers with roasted sweet potatoes and a green salad,Fast Food,552.8000000000001,28.0,200.0,10.4,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Chicken breast with brown rice and broccoli,Whole Grain,299.2,34.4,29.6,8.8,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Protein shake with milk and banana,Dairy,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,15,2,Weight Gain
+Lentil stew with a side of whole-wheat bread,Mixed,180.0,9.6,61.6,6.4,4.0,6.0,300.0,4,6,50,2,Multiple Diseases (High Risk)
+Fruit smoothie with almond milk,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Multiple Diseases (High Risk)
+Vegan pasta with marinara sauce and a side salad,Whole Food,168.0,11.2,16.0,26.4,5.0,5.0,250.0,2,9,35,0,Multiple Diseases (High Risk)
+Vegetarian chili with a side of whole-wheat bread,Mixed,248.0,24.0,85.60000000000001,6.4,4.0,6.0,300.0,4,6,50,2,Weight Gain
+1 cup oatmeal with berries and nuts,Whole Food,168.0,12.0,32.0,1.36,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Grilled chicken breast salad with mixed greens and avocado,Whole Food,176.0,11.2,17.6,11.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Protein shake with almond butter,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Peanut butter and banana sandwich,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Turkey sandwich on whole-wheat bread with vegetables,Whole Food,292.0,24.8,72.8,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Popcorn with a sprinkle of cinnamon,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Tofu scramble with whole-wheat toast and vegetables,Whole Food,276.8,19.36,43.2,12.0,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Black bean burger with a side salad,Fast Food,416.0,16.0,92.0,12.0,4.0,6.0,300.0,8,3,75,6,Weight Gain
+Fruit and nut smoothie,Whole Food,160.0,6.4,28.0,4.0,2.0,12.0,150.0,2,9,35,0,Weight Gain
+3 eggs with whole-wheat toast and avocado,Mixed,267.2,12.4,36.8,16.0,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Protein shake with fruit and spinach,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Yogurt with berries and granola,Whole Food,223.2,8.0,55.2,4.16,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Vegetable frittata,Mixed,385.6,22.64,88.0,18.4,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Protein smoothie with almond milk and banana,Dairy,160.0,16.0,24.0,1.6,2.0,12.0,150.0,4,6,15,2,Weight Gain
+Tofu scramble with avocado and whole-wheat toast,Mixed,176.0,12.0,19.200000000000003,12.0,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Chickpea pasta with tomato sauce and spinach,Mixed,431.2000000000001,32.0,41.6,33.6,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Nuts and seeds,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Oatmeal with plant-based milk and fruit,Whole Food,388.8,26.4,18.4,5.6000000000000005,3.0,8.0,200.0,2,9,35,0,Multiple Diseases (High Risk)
+Vegetable curry with brown rice,Whole Grain,286.40000000000003,22.4,49.6,3.2,5.0,5.0,250.0,3,8,45,1,Multiple Diseases (High Risk)
+Chicken breast with quinoa and roasted vegetables,Whole Food,328.0,42.400000000000006,32.0,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Fish with steamed broccoli,Lean Protein,192.0,44.8,78.4,11.2,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Mixed nuts and dried fruit,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Quinoa salad with grilled chicken and vegetables,Whole Food,528.8000000000001,23.200000000000003,22.4,8.0,4.0,6.0,300.0,2,9,35,0,Weight Gain + Kidney Disease
+Salmon with roasted vegetables and brown rice,Whole Food,336.0,38.400000000000006,25.6,12.8,5.0,5.0,250.0,2,9,35,0,Weight Gain + Kidney Disease
+Lentil soup with whole-grain bread,Prepared Meal,272.0,5.6000000000000005,27.200000000000003,6.4,4.0,6.0,300.0,5,6,25,3,Weight Gain
+Lentil pasta with tomato sauce and vegetables,Whole Food,854.4000000000001,3.2,144.0,12.0,5.0,5.0,250.0,2,9,35,0,Multiple Diseases (High Risk)
+Fruit and vegetable smoothie,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Multiple Diseases (High Risk)
+Steak with sweet potato fries and a side salad,Fast Food,421.6,21.6,24.0,20.8,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Lentil stew with whole-grain bread,Mixed,180.0,20.8,192.56,6.4,4.0,6.0,300.0,4,6,50,2,Weight Gain
+Chickpea pasta with marinara sauce and vegetables,Whole Food,452.0,33.6,160.0,22.4,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Whole-grain crackers with hummus,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Salmon with roasted vegetables and sweet potato,Whole Food,450.36800000000005,22.768,22.768,19.040000000000003,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Hummus with carrots and cucumber,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Yogurt with granola and fruit,Whole Food,282.40000000000003,44.0,36.0,4.0,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Black bean soup with whole grain bread,Prepared Meal,264.0,20.0,1.6,5.6000000000000005,4.0,6.0,300.0,5,6,25,3,Multiple Diseases (High Risk)
+Black bean burger on a whole grain bun,Fast Food,368.0,19.200000000000003,36.8,12.0,4.0,6.0,300.0,8,3,75,6,Weight Gain + Heart Issues
+Protein pancakes with fruit,Whole Food,272.8,128.0,240.0,10.4,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Chicken and vegetable fajitas,Lean Protein,248.0,128.0,16.0,9.6,4.0,6.0,300.0,3,8,0,1,Weight Gain
+Chicken breast salad with mixed greens and vegetables,Whole Food,329.6,19.200000000000003,54.400000000000006,8.0,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Tofu scramble with whole-wheat toast and avocado,Mixed,146.4,18.32,39.2,5.6000000000000005,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Turkey meatballs with whole-wheat pasta,Lean Protein,549.6,36.96,161.60000000000002,18.880000000000003,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Black bean salad with mixed greens,Whole Food,273.6,20.8,273.6,4.800000000000001,4.0,6.0,300.0,2,9,35,0,Multiple Diseases (High Risk)
+Lentil and vegetable stew with whole-wheat bread,Mixed,360.0,2.8800000000000003,14.4,13.2,5.0,5.0,250.0,4,6,50,2,Multiple Diseases (High Risk)
+Fruit smoothie with plant-based milk,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Multiple Diseases (High Risk)
+Steak with roasted vegetables and brown rice,Whole Food,511.2000000000001,3.2,80.0,3.2,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Quinoa porridge with berries and nuts,Whole Food,289.6,12.8,28.8,9.6,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Chickpea salad with whole-wheat bread,Whole Food,637.6,39.2,249.6,7.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Chicken breast with steamed vegetables and brown rice,Whole Food,361.6,22.4,36.0,14.32,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Overnight oats with berries and nuts,Whole Food,334.40000000000003,13.6,42.400000000000006,20.8,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Grilled salmon with quinoa and roasted vegetables,Whole Food,952.0,28.8,59.2,37.6,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Fruit with yogurt,Whole Food,120.0,8.0,16.0,4.0,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Tofu scramble with whole wheat toast,Whole Grain,232.0,24.8,31.200000000000003,21.6,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Vegan lentil soup with whole wheat bread,Whole Grain,288.0,3.2,36.8,5.6000000000000005,4.0,6.0,300.0,3,8,45,1,Multiple Diseases (High Risk)
+Vegan black bean burgers on whole wheat buns,Fast Food,656.0,30.4,51.2,32.0,5.0,5.0,250.0,8,3,75,6,Multiple Diseases (High Risk)
+Grilled chicken with sweet potato and broccoli,Lean Protein,655.2,21.6,320.0,54.400000000000006,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Vegetarian burrito bowl with brown rice,Whole Grain,328.0,12.8,24.8,11.2,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Lentil stew with whole wheat bread,Whole Grain,322.40000000000003,14.4,18.4,2.24,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Baked chicken with roasted vegetables,Whole Food,560.0,44.0,51.2,21.6,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Tofu scramble with avocado and whole wheat toast,Whole Grain,252.8,11.2,16.8,10.4,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Vegetarian pasta with marinara sauce,Mixed,472.0,20.8,197.6,5.6000000000000005,4.0,6.0,300.0,4,6,50,2,Weight Gain
+Almonds,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain + Kidney Disease
+Chicken breast with quinoa and vegetables,Whole Food,344.8,40.0,36.0,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Turkey sandwich on whole-wheat bread,Lean Protein,504.0,36.0,54.400000000000006,8.8,4.0,6.0,300.0,3,8,0,1,Weight Gain
+Steak with sweet potatoes and broccoli,Mixed,961.6,218.4,24.0,39.2,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Tuna salad with whole-wheat bread,Whole Food,112.8,12.8,72.8,5.6000000000000005,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Chicken stir fry with brown rice and vegetables,Whole Food,420.0,92.8,60.0,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Lentil soup with whole-wheat bread and salad,Whole Food,381.6,37.6,181.6,6.4,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Tuna salad sandwich on whole-wheat bread with salad,Whole Food,231.2,16.8,20.8,11.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Black bean burger on whole-wheat bun with salad,Fast Food,360.0,17.6,36.0,12.0,4.0,6.0,300.0,8,3,75,6,Weight Gain + Heart Issues
+Steak with roasted vegetables and sweet potato,Whole Food,233.6,37.6,216.0,25.6,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Turkey sandwich on whole-wheat bread with salad,Whole Food,214.4,22.4,21.6,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Bean burrito with brown rice and salsa,Whole Grain,344.0,20.0,22.4,11.2,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Chickpea pasta with vegetable sauce,Mixed,528.0,32.0,92.0,36.8,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Breakfast burrito with eggs and vegetables,Whole Food,204.0,41.6,30.4,6.4,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Vegetable stir fry with brown rice,Whole Grain,302.40000000000003,9.6,50.400000000000006,7.2,4.0,6.0,300.0,3,8,45,1,Multiple Diseases (High Risk)
+Black bean soup with whole-grain bread,Prepared Meal,112.0,22.4,32.0,8.8,5.0,5.0,250.0,5,6,25,3,Multiple Diseases (High Risk)
+Fruit and vegetable salad,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Tuna salad sandwich on whole-grain bread,Whole Food,344.0,8.0,21.6,10.4,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Turkey breast sandwich on whole-grain bread,Lean Protein,168.8,12.0,16.8,8.8,4.0,6.0,300.0,3,8,0,1,Weight Gain
+Chickpea pasta with marinara sauce,Mixed,396.0,17.84,101.6,5.6000000000000005,4.0,6.0,300.0,4,6,50,2,Weight Gain
+Vegan lentil stew,Mixed,708.0,17.6,150.4,40.0,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Chicken salad sandwich on whole-grain bread,Whole Food,240.0,20.0,20.0,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain + Heart Issues
+Salmon with vegetables,Whole Food,472.0,47.2,47.2,47.2,5.0,5.0,250.0,2,9,35,0,Weight Gain + Heart Issues
+Chickpea pasta salad with vegetables,Whole Food,440.0,11.2,8.8,6.4,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Black bean and sweet potato burrito,Mixed,169.60000000000002,9.6,39.2,12.8,4.0,6.0,300.0,4,6,50,2,Weight Gain + Kidney Disease
+Fruit with nut butter,Whole Food,144.0,3.2,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain + Kidney Disease
+Oatmeal with protein powder,Whole Grain,512.0,41.6,46.400000000000006,15.2,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Chicken and vegetable skewers,Lean Protein,384.0,20.0,8.0,9.6,4.0,6.0,300.0,3,8,0,1,Weight Gain
+Grilled chicken salad with quinoa,Whole Food,856.0,43.2,88.0,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Banana,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Overnight oats with berries and chia seeds,Whole Food,192.0,4.0,43.2,4.0,3.0,8.0,200.0,2,9,35,0,Multiple Diseases (High Risk)
+Lentil and vegetable soup,Prepared Meal,64.0,3.2,13.6,6.4,4.0,6.0,300.0,5,6,25,3,Multiple Diseases (High Risk)
+Smoothie with fruit and protein powder,Whole Food,204.0,42.400000000000006,44.0,23.200000000000003,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Chicken and vegetable soup,Lean Protein,336.40000000000003,21.064,21.064,5.6000000000000005,4.0,6.0,300.0,3,8,0,1,Weight Gain
+Quinoa salad with grilled chicken,Whole Food,402.4,17.6,175.20000000000002,16.8,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Lentil pasta with vegan cheese,Dairy,358.40000000000003,24.8,36.0,6.4,4.0,6.0,300.0,4,6,15,2,Weight Gain
+Rice cakes with peanut butter,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Quinoa salad with grilled tofu,Whole Food,360.0,22.16,56.0,7.2,4.0,6.0,300.0,2,9,35,0,Weight Gain + Kidney Disease
+Tofu scramble with whole wheat toast and fruit,Whole Food,140.0,15.2,24.8,5.6000000000000005,3.0,8.0,200.0,2,9,35,0,Multiple Diseases (High Risk)
+Steak with baked potato and salad,Whole Food,336.0,48.0,33.6,33.6,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Vegetable lasagna with salad,Whole Food,996.8,22.56,996.8,9.6,5.0,5.0,250.0,2,9,35,0,Multiple Diseases (High Risk)
+Trail mix ,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Chickpea pasta with tomato sauce and vegetables,Whole Food,667.2,22.4,124.0,12.8,5.0,5.0,250.0,2,9,35,0,Multiple Diseases (High Risk)
+Salmon with quinoa and steamed vegetables,Whole Food,818.4000000000001,81.60000000000001,76.0,6.4,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Chicken breast with roasted vegetables and quinoa,Whole Food,153.60000000000002,41.6,19.200000000000003,31.200000000000003,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Tofu and vegetable scramble with whole-wheat toast,Mixed,352.8,23.200000000000003,36.0,28.0,3.0,8.0,200.0,4,6,50,2,Multiple Diseases (High Risk)
+Grilled chicken salad with mixed greens and vegetables,Whole Food,448.0,16.0,38.400000000000006,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Roast beef with mashed potatoes and peas,Mixed,360.8,36.0,56.0,19.200000000000003,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Popcorn with a touch of olive oil,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Tofu and vegetable scramble with wholegrain toast,Mixed,306.40000000000003,21.6,31.200000000000003,27.200000000000003,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Black bean burgers on wholegrain buns,Fast Food,677.6,16.8,75.2,44.0,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Oatmeal with berries and flax seeds,Whole Food,266.40000000000003,26.4,35.2,12.8,3.0,8.0,200.0,2,9,35,0,Multiple Diseases (High Risk)
+Almond milk with banana and chia seeds,Dairy,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,15,2,Multiple Diseases (High Risk)
+Eggs with wholegrain toast and avocado,Mixed,315.20000000000005,15.2,72.8,48.8,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Breakfast burrito with beans and vegetables,Whole Food,93.6,19.200000000000003,36.0,1.6,3.0,8.0,200.0,2,9,35,0,Weight Gain + Kidney Disease
+Chickpea salad sandwich on wholegrain bread,Whole Food,204.0,9.76,19.200000000000003,8.0,4.0,6.0,300.0,2,9,35,0,Weight Gain + Kidney Disease
+Hummus with wholegrain crackers,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain + Kidney Disease
+Black bean burger on whole-wheat bun,Fast Food,688.0,14.4,144.0,12.0,4.0,6.0,300.0,8,3,75,6,Multiple Diseases (High Risk)
+Chicken breast with vegetables,Whole Food,452.0,37.6,176.0,44.0,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Yogurt with fruit,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Chicken breast with brown rice and quinoa,Whole Grain,381.6,36.8,36.8,8.8,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Chicken and vegetable wrap,Lean Protein,400.0,22.4,73.60000000000001,8.8,4.0,6.0,300.0,3,8,0,1,Weight Gain
+Yogurt parfait with granola,Dairy,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,15,2,Weight Gain + Kidney Disease
+Chicken breast with mixed greens salad,Whole Food,640.0,44.8,88.0,8.0,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Chicken breast salad with mixed greens and avocado,Whole Food,592.0,26.4,16.0,11.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Oatmeal with protein powder and banana,Whole Grain,235.2,20.8,48.8,16.0,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Beef and vegetable skewers with sweet potato fries,Fast Food,84.0,7.120000000000001,28.8,24.8,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Fruit with nuts,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Multiple Diseases (High Risk)
+Tofu and vegetable scramble with avocado toast,Mixed,211.2,24.0,17.6,22.4,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Vegan chili with whole grain bread,Mixed,336.0,9.6,64.8,4.0,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Lentil and chickpea salad with whole grain pita,Whole Food,312.0,58.400000000000006,58.400000000000006,7.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Vegan pasta with vegetables and cashew cream sauce,Whole Food,340.0,41.6,120.0,24.0,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Scrambled eggs with whole wheat toast and smoked salmon,Whole Grain,311.20000000000005,30.4,31.760000000000005,8.0,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Lentil and vegetable soup with whole grain bread,Prepared Meal,384.0,13.2,11.2,6.4,4.0,6.0,300.0,5,6,25,3,Multiple Diseases (High Risk)
+Quinoa salad with grilled vegetables,Whole Food,400.0,0.8,11.2,11.2,5.0,5.0,250.0,2,9,35,0,Multiple Diseases (High Risk)
+Fruit with cottage cheese,Whole Food,128.0,11.2,9.6,4.0,2.0,12.0,150.0,2,9,35,0,Multiple Diseases (High Risk)
+Lentil and vegetable curry with brown rice and naan bread,Whole Grain,511.2000000000001,5.6000000000000005,28.0,8.0,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Vegan pizza with vegetables and cashew cheese,Whole Food,568.8000000000001,34.4,284.8,17.6,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Fish with roasted vegetables and quinoa,Whole Food,410.4,43.2,53.6,30.4,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Tofu scramble with vegetables and avocado toast,Whole Food,221.6,47.760000000000005,33.6,1.84,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Chickpea pasta salad with roasted vegetables,Whole Food,168.8,13.6,23.200000000000003,6.4,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Turkey breast sandwich with mixed greens,Lean Protein,360.0,21.680000000000003,20.4,8.8,4.0,6.0,300.0,3,8,0,1,Weight Gain
+Black bean burger on whole wheat bun with salad,Fast Food,360.0,3.2,29.6,12.0,4.0,6.0,300.0,8,3,75,6,Multiple Diseases (High Risk)
+Lentil and vegetable stew with whole wheat bread,Whole Grain,464.0,16.48,78.4,12.8,5.0,5.0,250.0,3,8,45,1,Multiple Diseases (High Risk)
+Fruit and yogurt parfait,Whole Food,123.2,5.6000000000000005,12.8,6.4,3.0,8.0,200.0,2,9,35,0,Multiple Diseases (High Risk)
+Mixed greens salad with chickpeas and tahini dressing,Whole Food,400.0,20.8,9.6,7.2,4.0,6.0,300.0,2,9,35,0,Multiple Diseases (High Risk)
+Almonds with dried fruit,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Multiple Diseases (High Risk)
+Pancakes with fruit and nuts,Whole Food,129.6,19.200000000000003,67.2,8.0,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Chicken and rice bowl with vegetables,Whole Food,808.0,56.0,293.6,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Protein shake with fruit and greens,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Tempeh stir-fry with brown rice,Whole Grain,613.6,41.6,243.2,8.8,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Dark chocolate with almonds,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Lentil salad with quinoa and avocado,Whole Food,96.0,14.4,7.2,7.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Yogurt with granola,Dairy,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,15,2,Weight Gain
+Tofu and vegetable scramble,Mixed,164.0,9.2,32.0,9.2,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Quinoa salad with chickpeas and avocado,Whole Food,337.6,9.28,24.0,7.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Protein smoothie,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Eggs with whole wheat toast,Whole Grain,199.2,10.240000000000002,71.2,11.2,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Chicken salad with whole grain bread,Whole Food,389.6,26.4,192.0,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Chicken breast with baked potato,Lean Protein,642.4000000000001,21.92,216.0,24.8,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Salmon with quinoa and steamed broccoli,Whole Grain,96.0,16.0,9.6,33.6,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Baked chicken with sweet potato and green beans,Lean Protein,832.0,83.2,199.2,48.0,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Black bean burger on a whole-wheat bun with salad,Fast Food,362.4,36.8,36.8,12.0,4.0,6.0,300.0,8,3,75,6,Weight Gain
+Chicken breast with sweet potato and roasted vegetables,Whole Food,362.4,34.4,14.4,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Steak with quinoa and steamed broccoli,Whole Grain,544.0,72.0,38.400000000000006,14.4,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Quinoa salad with vegetables,Whole Food,344.0,27.200000000000003,36.0,7.2,4.0,6.0,300.0,2,9,35,0,Weight Gain + Heart Issues
+Chickpea pasta with vegetables and vegan cheese,Whole Food,360.0,16.0,48.0,6.4,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Baked fish with steamed vegetables,Whole Food,542.4,23.200000000000003,18.4,4.0,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Vegetarian chili,Mixed,528.0,16.0,57.6,15.2,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Vegan lasagna,Mixed,863.2,10.48,43.2,10.4,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Turkey chili with cornbread,Lean Protein,396.8,63.2,29.6,39.2,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Protein smoothie with fruit,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Greek yogurt with granola and berries,Whole Food,197.6,14.4,36.8,1.6,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Turkey meatballs with spaghetti squash,Lean Protein,272.0,52.8,27.200000000000003,16.8,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Vegetable soup with whole-wheat bread,Prepared Meal,280.0,17.6,28.0,5.6000000000000005,4.0,6.0,300.0,5,6,25,3,Weight Gain + Heart Issues
+Fruit with almonds,Whole Food,160.0,4.800000000000001,16.0,12.0,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Salmon with asparagus and sweet potato,Lean Protein,313.6,37.6,36.8,3.2,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Whole-wheat toast with egg and avocado,Mixed,220.8,11.920000000000002,23.200000000000003,11.36,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Tofu scramble with spinach and mushrooms,Mixed,194.4,25.6,23.200000000000003,5.6000000000000005,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Popcorn with a sprinkle of parmesan cheese,Dairy,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,15,2,Weight Gain
+Quinoa breakfast bowl with berries and nuts,Whole Food,233.6,9.6,30.4,8.0,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Bean and vegetable burrito,Mixed,8.0,1.2800000000000002,12.32,8.0,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Protein shake with fruit ,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Lentil soup with a side salad,Whole Food,320.0,10.0,160.0,6.4,4.0,6.0,300.0,2,9,35,0,Multiple Diseases (High Risk)
+Fruit and yogurt ,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Multiple Diseases (High Risk)
+Bean burgers with sweet potato fries,Fast Food,432.0,22.4,32.800000000000004,34.4,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Protein shake with fruit and nuts,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Black bean burgers on whole-wheat buns with a side salad,Fast Food,824.0,31.200000000000003,143.20000000000002,12.0,4.0,6.0,300.0,8,3,75,6,Weight Gain + Kidney Disease
+Chicken salad sandwich on whole-wheat bread with a side salad,Whole Food,299.2,26.4,38.400000000000006,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Chickpea salad sandwich on whole-wheat bread with a side salad,Whole Food,426.4,12.0,85.60000000000001,8.0,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Black bean burgers with brown rice and roasted vegetables,Fast Food,352.8,36.0,29.6,33.6,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Protein shake with fruit and nuts ,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Chicken salad with whole-wheat bread,Whole Food,200.0,12.8,20.0,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Turkey sandwich with whole-wheat bread,Lean Protein,464.8,42.400000000000006,40.0,8.8,4.0,6.0,300.0,3,8,0,1,Weight Gain
+Vegetable stir-fry with quinoa,Whole Grain,561.6,13.6,24.0,4.0,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Chicken salad sandwich on whole-wheat bread with a side of fruit,Whole Food,288.0,18.4,28.8,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Black bean burger on a whole-wheat bun with a side salad,Fast Food,331.20000000000005,23.200000000000003,59.2,12.0,4.0,6.0,300.0,8,3,75,6,Weight Gain
+Popcorn with nutritional yeast,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Turkey chili with whole-wheat bread,Lean Protein,264.0,18.4,20.0,18.4,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Greek yogurt with protein powder,Dairy,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,15,2,Weight Gain
+Tofu and vegetable stir-fry with quinoa,Whole Grain,320.0,36.0,34.4,20.8,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Lentil loaf with roasted vegetables,Whole Food,128.0,3.2,25.6,3.2,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Protein smoothie with banana and spinach,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Eggs with whole-wheat toast and fruit,Whole Food,214.4,10.4,32.0,8.0,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Tuna salad sandwich on whole-wheat bread with a side of fruit,Whole Food,395.2000000000001,21.6,38.400000000000006,11.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Quinoa porridge with berries,Whole Food,220.0,11.2,21.6,11.2,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Chickpea salad sandwich on whole-wheat bread with a side of fruit,Whole Food,377.6,16.0,21.6,8.0,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Vegetarian lasagna with a side salad,Whole Food,11.2,11.2,24.8,11.2,5.0,5.0,250.0,2,9,35,0,Weight Gain
+Hummus and veggie wraps,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Vegan pasta with marinara sauce and vegetables,Whole Food,9.6,13.6,105.6,20.0,5.0,5.0,250.0,2,9,35,0,Multiple Diseases (High Risk)
+Black bean burger on a whole wheat bun with salad,Fast Food,395.2000000000001,17.6,102.4,12.0,4.0,6.0,300.0,8,3,75,6,Multiple Diseases (High Risk)
+Chickpea pasta with tomato sauce,Mixed,136.0,16.0,19.200000000000003,4.0,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Tofu breakfast burrito with avocado,Mixed,240.0,19.200000000000003,30.4,16.8,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Black bean burger on a whole-grain bun,Fast Food,192.0,19.200000000000003,19.200000000000003,12.0,4.0,6.0,300.0,8,3,75,6,Weight Gain
+Fruit and vegetables,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain + Heart Issues
+Grilled chicken salad with whole grain bread,Whole Food,308.0,28.0,200.0,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Tofu scramble with avocado toast,Mixed,216.8,20.16,34.4,20.8,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Scrambled eggs with whole grain toast,Mixed,322.40000000000003,20.4,63.2,14.080000000000002,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Lentil stew with whole grain bread,Mixed,336.8,1.84,53.6,14.16,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Fruit salad with Greek yogurt,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Lentil stew with vegetables and brown rice,Whole Food,241.6,18.72,8.959999999999999,12.8,5.0,5.0,250.0,2,9,35,0,Multiple Diseases (High Risk)
+Fruit with almond butter,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Multiple Diseases (High Risk)
+Bean and vegetable stir-fry with brown rice,Whole Grain,144.0,4.800000000000001,144.0,7.2,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Fruit with nuts and seeds,Whole Food,160.0,4.800000000000001,16.0,12.0,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Turkey chili with whole grain bread,Lean Protein,40.0,18.4,12.8,11.2,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Popcorn with a sprinkle of nutritional yeast,Mixed,80.0,2.4000000000000004,12.0,4.0,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Quinoa salad with roasted vegetables and chickpeas,Whole Food,136.0,4.800000000000001,20.8,7.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Greek Yogurt with Berries and Nuts,Whole Food,202.4,13.6,20.0,0.96,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Tuna Salad Sandwich on Whole Wheat Bread,Whole Food,208.8,3.76,47.2,10.4,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Chicken Stir-Fry with Brown Rice,Whole Grain,190.4,13.2,124.8,2.4000000000000004,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Apple with Peanut Butter,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Tofu Scramble with Avocado Toast,Mixed,295.2,18.4,35.2,8.0,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Quinoa Salad with Grilled Vegetables,Whole Food,520.0,19.200000000000003,20.0,7.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Lentil Soup with Whole Wheat Bread,Whole Grain,512.0,40.0,14.4,5.6000000000000005,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Mixed Nuts and Dried Fruits,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Oatmeal with Protein Powder and Berries,Whole Food,288.0,12.8,24.0,3.2,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Chicken Breast with Brown Rice and Steamed Vegetables,Whole Food,440.0,28.8,28.8,8.8,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Salmon with Roasted Sweet Potatoes,Lean Protein,568.0,13.04,57.6,15.2,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Yogurt Parfait with Granola,Dairy,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,15,2,Weight Gain
+Tofu Scramble with Whole Wheat Toast,Whole Grain,169.60000000000002,8.0,24.0,3.2,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Lentil and Vegetable Curry with Brown Rice,Whole Grain,435.2000000000001,16.0,8.0,8.0,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Black Bean Burgers on Whole Wheat Buns,Fast Food,448.0,17.52,44.0,8.0,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Fruit Salad with Coconut Yogurt,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Eggs with Whole Wheat Toast and Avocado,Whole Grain,272.0,23.200000000000003,45.6,24.0,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Chicken and Vegetable Wrap on Whole Wheat Tortilla,Whole Grain,328.0,23.200000000000003,14.4,8.8,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Grilled Steak with Sweet Potato Fries,Fast Food,1152.0,3.2,44.8,29.6,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Protein Shake with Banana,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Salmon with roasted sweet potatoes and broccoli,Lean Protein,400.0,33.6,33.6,21.6,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Greek yogurt with almonds and fruit,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Tofu scramble with whole grain toast and avocado,Mixed,240.8,29.360000000000003,23.200000000000003,6.4,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Eggs with whole wheat toast and fruit,Whole Food,186.4,14.4,28.0,9.6,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Tuna salad sandwich on whole grain bread,Whole Food,536.8000000000001,20.8,12.8,10.4,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Steak with sweet potato fries and mixed greens,Fast Food,1734.4,96.0,215.2,96.0,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Chicken salad sandwich on whole grain bread with a side of fruit,Whole Food,226.24,27.200000000000003,28.8,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Beef with sweet potato and green beans,Mixed,392.8,1.6,196.0,4.0,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Tofu scramble with vegan toast and avocado,Mixed,108.8,14.4,42.400000000000006,4.0,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Lentil pasta with vegan pesto sauce,Mixed,150.4,14.4,15.2,10.4,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Tuna salad sandwich on whole grain bread with a side of salad,Whole Food,401.6,17.6,86.4,11.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Scrambled eggs with whole wheat toast and spinach,Whole Grain,314.40000000000003,10.4,16.0,11.2,3.0,8.0,200.0,3,8,45,1,Weight Gain
+Chickpea salad sandwich on whole grain bread,Whole Food,228.8,9.6,19.200000000000003,8.0,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Hummus and veggie sticks,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Vegan lentil burger with sweet potato fries,Fast Food,440.8,11.44,27.84,11.2,4.0,6.0,300.0,8,3,75,6,Weight Gain
+Trail mix with dried fruit,Whole Food,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,2,9,35,0,Weight Gain
+Vegan chili with whole wheat bread,Whole Grain,345.6,32.800000000000004,29.6,6.4,4.0,6.0,300.0,3,8,45,1,Multiple Diseases (High Risk)
+Chicken breast salad with whole-wheat bread,Whole Food,264.0,21.6,220.0,8.0,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Tofu breakfast burrito,Mixed,1088.0,15.2,144.0,32.0,3.0,8.0,200.0,4,6,50,2,Multiple Diseases (High Risk)
+Hummus and vegetable sticks,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Tofu scramble with veggies and avocado toast,Mixed,208.0,19.200000000000003,46.400000000000006,27.200000000000003,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Scrambled eggs with whole-wheat toast and fruit,Whole Food,322.40000000000003,22.480000000000004,36.8,11.2,3.0,8.0,200.0,2,9,35,0,Weight Gain
+Breakfast burrito with beans and veggies,Mixed,213.6,11.2,62.400000000000006,11.2,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Lentil and veggie stir-fry with brown rice,Whole Grain,244.0,6.96,18.4,8.0,4.0,6.0,300.0,3,8,45,1,Weight Gain
+Vegan burgers with sweet potato fries,Fast Food,329.6,22.4,32.800000000000004,12.0,5.0,5.0,250.0,8,3,75,6,Weight Gain
+Steak with baked potato,Mixed,292.0,68.0,408.0,40.8,5.0,5.0,250.0,4,6,50,2,Weight Gain
+Turkey and veggie wrap with whole-wheat tortilla,Lean Protein,472.0,24.8,55.2,8.8,4.0,6.0,300.0,3,8,0,1,Weight Gain
+Chicken breast with broccoli and sweet potato,Lean Protein,412.8,51.2,120.0,12.0,5.0,5.0,250.0,3,8,0,1,Weight Gain
+Eggs with whole grain toast,Mixed,242.4,10.64,37.6,21.6,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Vegetarian chili with whole grain bread,Mixed,216.0,11.2,45.6,6.4,4.0,6.0,300.0,4,6,50,2,Weight Gain + Heart Issues
+Vegan pancakes with syrup,Mixed,224.0,30.4,22.4,22.4,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Veggie stir-fry,Prepared Meal,136.8,28.8,36.8,7.2,4.0,6.0,300.0,5,6,25,3,Weight Gain
+Tofu and quinoa bowl,Whole Grain,351.20000000000005,8.4,155.20000000000002,57.6,5.0,5.0,250.0,3,8,45,1,Weight Gain
+Hummus and veggies,Mixed,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,50,2,Weight Gain
+Lentil soup with bread,Prepared Meal,92.0,16.8,60.0,6.4,4.0,6.0,300.0,5,6,25,3,Weight Gain
+Vegetable curry,Prepared Meal,237.6,19.28,19.200000000000003,7.28,5.0,5.0,250.0,5,6,25,3,Weight Gain
+Grilled chicken salad,Whole Food,246.4,27.200000000000003,25.6,9.6,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Beef and broccoli stir-fry,Prepared Meal,348.8,4.88,32.800000000000004,12.64,5.0,5.0,250.0,5,6,25,3,Weight Gain
+Greek yogurt with nuts,Dairy,144.0,4.800000000000001,24.0,6.4,2.0,12.0,150.0,4,6,15,2,Weight Gain
+Turkey sandwich,Lean Protein,656.0,33.6,113.6,8.8,4.0,6.0,300.0,3,8,0,1,Weight Gain + Kidney Disease
+Baked salmon with veggies,Lean Protein,232.0,23.200000000000003,13.6,29.6,5.0,5.0,250.0,3,8,0,1,Weight Gain + Kidney Disease
+Avocado and chickpea salad,Whole Food,386.4,2.8800000000000003,32.0,7.2,4.0,6.0,300.0,2,9,35,0,Weight Gain
+Oatmeal with berries,Whole Food,122.4,17.6,13.6,8.8,3.0,8.0,200.0,2,9,35,0,Weight Gain + Heart Issues
+Egg and spinach wrap,Mixed,258.40000000000003,46.19200000000001,48.64,8.64,3.0,8.0,200.0,4,6,50,2,Weight Gain
+Pasta with marinara sauce,Mixed,630.4000000000001,22.4,62.400000000000006,22.4,5.0,5.0,250.0,4,6,50,2,Weight Gain + Heart Issues
+Pasta with marinara sauce and veggies,Mixed,668.0,96.0,200.0,27.200000000000003,5.0,5.0,250.0,4,6,50,2,Weight Gain

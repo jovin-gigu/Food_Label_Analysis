@@ -1,0 +1,14 @@
+flask
+flask-cors
+pandas
+numpy
+scikit-learn
+xgboost
+nltk
+spacy
+pytesseract
+Pillow
+opencv-python
+fastapi
+uvicorn
+python-multipart
