@@ -20,12 +20,30 @@ app = Flask(__name__)
 if os.getenv('FLASK_ENV') == 'production':
     # In production, only allow your frontend domain
     CORS(app, origins=[
-        "https://your-frontend-domain.com",
-        "https://your-frontend-domain.vercel.app"
+        "https://food-label-analysis.vercel.app"
     ])
 else:
     # In development, allow all origins
     CORS(app)
+
+@app.route("/food/analyze", methods=["POST"])
+def analyze_food():
+    data = request.get_json()
+    food_name = data.get("name")
+    # your analysis logic here
+    result = {"message": f"Analyzed {food_name} successfully!"}
+    return jsonify(result)
+
+port = int(os.environ.get("PORT", 5000))  # 5000 fallback for local dev
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=port)
+
+if os.getenv('FLASK_ENV') == 'production':
+    CORS(app, origins=["https://food-label-analysis.vercel.app"])
+else:
+    CORS(app)  # local dev
+
 
 # Configure upload settings
 UPLOAD_FOLDER = 'temp_uploads'
